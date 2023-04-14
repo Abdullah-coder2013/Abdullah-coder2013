@@ -3,8 +3,8 @@ My name is Abdullah, I am from Bangladesh.
 I am a Python + Web Developer
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-coder2013&layout=compact"/>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullah-coder2013&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-coder2013&layout=compact&theme=dark"/>
 <!--
 **Abdullah-coder2013/Abdullah-coder2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
