@@ -5,6 +5,11 @@ I am a Python + Web Developer
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullah-coder2013&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-coder2013&layout=compact&theme=dark"/>
+
+### My best repos:
+
+[Quran](https://github.com/Abdullah-coder2013/Quran)
+[Minecraft Python Edition](https://github.com/Abdullah-coder2013/Minecraft-Python-Edition)
 <!--
 **Abdullah-coder2013/Abdullah-coder2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
